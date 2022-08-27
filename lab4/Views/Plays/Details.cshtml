@@ -1,0 +1,58 @@
+﻿@model lab4.Models.Play
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Play</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Autor)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Autor)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Genre)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Genre)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Data)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Data)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Головна", "Index")
+    </p>
+</body>
+</html>

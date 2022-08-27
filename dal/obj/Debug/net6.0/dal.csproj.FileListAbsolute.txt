@@ -1,0 +1,12 @@
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\bin\Debug\net6.0\dal.dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\dal\obj\Debug\net6.0\ref\dal.dll

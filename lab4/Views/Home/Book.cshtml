@@ -1,0 +1,41 @@
+﻿@model lab4.Models.Ticket
+
+
+@{
+    ViewBag.Title = "бронювання квитка";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Бронювання квитка</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Квиток</legend>
+
+        <p>
+            Имя бронювача <br />
+            @Html.EditorFor(model => model.Owner)
+        </p>
+        @Html.HiddenFor(model => model.State)
+
+
+        <p>
+            Ціна  <br />
+            @Html.EditorFor(model => model.Price)
+        </p>
+        <p>
+            Назва вистави <br />
+            @Html.DropDownListFor(model => model.PlayId, ViewBag.Plays as SelectList)
+        </p>
+
+        <p>
+            <input type="submit" value="Забронювати білет" />
+        </p>
+    </fieldset>
+}
+<div>
+    @Html.ActionLink("На головну", "Index")
+</div>
+

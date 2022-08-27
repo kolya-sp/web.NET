@@ -1,0 +1,61 @@
+﻿@model lab4.Models.TicketsListViewModel
+
+@{
+    ViewBag.Title = "Каталог билетов";
+}
+
+<h2>Каталог игроков</h2>
+
+<p>
+    @Html.ActionLink("На головну", "Index")
+</p>
+
+<form method="get">
+    <div class="form-inline">
+        <label class="control-label">Власник квитка: </label>
+        @Html.DropDownList("Owner", Model.Owner as SelectList,
+                    htmlAttributes: new { @class = "form-control" })
+
+        <label class="control-label">назва п'єси: </label>
+        @Html.DropDownList("PlayName", Model.PlayName as SelectList,
+                htmlAttributes: new { @class = "form-control" })
+
+        <input type="submit" value="Фильтр" class="btn btn-default" />
+    </div>
+</form>
+
+<table>
+    <tr>
+        <th>|дата</th>
+        <th>|власник</th>
+        <th>|ціна</th>
+        <th>|Назва вистави</th>
+        <th>|статус білету</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Tickets)
+    {
+        <tr>
+            <td>
+                |@Html.DisplayFor(modelItem => item.Play.Data)
+            </td>
+            <td>
+                |@Html.DisplayFor(modelItem => item.Owner)
+            </td>
+            <td>
+                |@Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                |@Html.DisplayFor(modelItem => item.Play.Name)
+            </td>
+            <td>
+                |@Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.ActionLink("Продати", "BookingSold1", new { id = item.Id }) |
+                @Html.ActionLink("Видалити", "BookingDelete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

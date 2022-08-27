@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab1(binary search tree)/1.0.0": {
+        "dependencies": {
+          "BST_lib": "1.0.0"
+        },
+        "runtime": {
+          "lab1(binary search tree).dll": {}
+        }
+      },
+      "BST_lib/1.0.0": {
+        "runtime": {
+          "BST_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1(binary search tree)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BST_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).csproj.AssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).AssemblyInfoInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).AssemblyInfo.cs
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).exe
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).deps.json
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).runtimeconfig.json
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).runtimeconfig.dev.json
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\lab1(binary search tree).pdb
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).pdb
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).genruntimeconfig.cache
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\BST_lib.dll
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\bin\Debug\netcoreapp3.1\BST_lib.pdb
+C:\Users\user\Documents\учебники и задания\2 курс\2 семестр\сучасні технології веб застосувань на платформі .net\lab\lab1\lab1(binary search tree)\obj\Debug\netcoreapp3.1\lab1(binary search tree).csproj.CopyComplete

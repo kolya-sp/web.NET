@@ -1,0 +1,53 @@
+﻿@model IEnumerable<lab4.Models.Play>
+
+@{
+    ViewBag.Title = "Plays";
+}
+
+<h2>Plays</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create","Plays",null,null)
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Autor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.ActionLink("Редагувати", "Edit", "Plays", new { id = item.Id }, null) |
+                @Html.ActionLink("Details", "Details", "Plays", new { id = item.Id }, null) |
+                @Html.ActionLink("Видалити", "Delete", "Plays", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+
